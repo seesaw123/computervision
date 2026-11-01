@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+models/*.pt
+data/shapes/
+data/custom_objects/images/
+data/custom_objects/labels/
+data/custom_objects/data.yaml
+data/custom_objects/data.resolved.yaml
