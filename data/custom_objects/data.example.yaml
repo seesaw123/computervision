@@ -1,0 +1,8 @@
+path: data/custom_objects
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: calculator
+  1: marker
+  2: notebook
