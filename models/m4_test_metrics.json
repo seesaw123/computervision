@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.6904761904761905,
+  "test_count": 42,
+  "classes": ["circle","square","triangle"],
+  "confusion_matrix_rows_true_cols_pred": [[4,5,5],[2,11,1],[0,0,14]],
+  "best_validation_accuracy": 0.6904761904761905,
+  "dataset_type": "synthetic educational images"
+}
